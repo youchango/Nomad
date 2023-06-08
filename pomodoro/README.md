@@ -1,6 +1,6 @@
 # promodoro
 
-A new Flutter project.
+Nomad Coder's POMODORO APP
 
 ## Getting Started
 
